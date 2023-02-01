@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class HowManyPages {
+public class HowManyPages {
+  
+  public static void main(String[] args) {
+    
+    
+  }
+  
 }
